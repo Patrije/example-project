@@ -1,0 +1,12 @@
+<p>{{atrybut}}</p>
+
+<input type="text" [(ngModel)]="firstName">
+
+<button (click)="clickHandler()">Click Me</button>
+
+
+<ul *ngIf="czyWyswietlicListe">
+    <li *ngFor="let item of items">
+        {{item}}
+    </li>
+</ul>
