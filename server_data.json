@@ -13,17 +13,79 @@
       "postId": 1
     },
     {
-      "id": 1,
+      "id": 2,
       "body": "koment 2",
       "postId": 1
     },
     {
-      "id": 1,
-      "body": "koment 3",
+      "id": 3,
+      "body": "koment egr",
       "postId": 1
+    },
+    {
+      "id": 23,
+      "body": "fik",
+      "postId": 43
+    },
+    {
+      "id": 25,
+      "body": "fik",
+      "postId": 43
+    },
+    {
+      "id": 26,
+      "body": "fik",
+      "postId": 43
+    },
+    {
+      "id": 500,
+      "body": "tresc komentarza",
+      "postId": 7
+    },
+    {
+      "id": 501,
+      "body": "komee",
+      "postId": 7
+    },
+    {
+      "id": 503,
+      "body": "kolejny komentarz",
+      "postId": 7
+    },
+    {
+      "id": 504,
+      "body": "nastepny komentarz",
+      "postId": 7
+    },
+    {
+      "id": 1001,
+      "body": "wegkmwlkgenw",
+      "postId": 7
+    },
+    {
+      "id": 1002,
+      "body": "wegkmwlkgenw",
+      "postId": 7
+    },
+    {
+      "id": 1003,
+      "body": "wegkmwlkgenw",
+      "postId": 7
+    },
+    {
+      "id": 1004,
+      "body": "wegkmwlkgenw",
+      "postId": 7
+    },
+    {
+      "id": 1005,
+      "body": "wegwegwe",
+      "postId": 7
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profiles": [
+    {
+      "name": "typicode"
+    }
+  ]
 }

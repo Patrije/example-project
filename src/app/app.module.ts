@@ -7,12 +7,20 @@ import { AppComponent } from './app.component';
 import { ExampleComponent } from './example/example.component';
 import { HttpClientModule } from '@angular/common/http';
 import { CommentComponent } from './comment/comment.component';
+import { ChildComponent } from './child/child.component';
+import { ParentComponent } from './parent/parent.component';
+import { TodoListComponent } from './todo-list/todo-list.component';
+import { TodoItemComponent } from './todo-item/todo-item.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ExampleComponent,
-    CommentComponent
+    CommentComponent,
+    ChildComponent,
+    ParentComponent,
+    TodoListComponent,
+    TodoItemComponent
   ],
   imports: [
     BrowserModule,

@@ -1,3 +1,6 @@
+<input type="text" [(ngModel)] ="userComment">
+
+<button (click)="addComment()">Add comment</button>
 <ul>
     <li *ngFor="let comment of listaKomentow"> {{comment.body}}</li>
 </ul>

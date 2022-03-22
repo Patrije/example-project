@@ -18,4 +18,8 @@ export class CommentService {
    getComments(): Observable<Comment[]> {
     return this.httpClient.get<Comment[]>('http://localhost:3000/comments');
   }
+
+  addComment(comment: Comment): Observable<Comment> {
+    return this.httpClient.post<Comment>('http://localhost:3000/comments', comment);
+  }
 }
